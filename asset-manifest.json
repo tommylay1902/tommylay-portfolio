@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tommylay-portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tommylay-portfolio/static/js/main.c04655ee.chunk.js",
+    "main.js.map": "/tommylay-portfolio/static/js/main.c04655ee.chunk.js.map",
+    "runtime-main.js": "/tommylay-portfolio/static/js/runtime-main.89a711b1.js",
+    "runtime-main.js.map": "/tommylay-portfolio/static/js/runtime-main.89a711b1.js.map",
+    "static/js/2.8c698d03.chunk.js": "/tommylay-portfolio/static/js/2.8c698d03.chunk.js",
+    "static/js/2.8c698d03.chunk.js.map": "/tommylay-portfolio/static/js/2.8c698d03.chunk.js.map",
+    "static/js/3.c4cc5839.chunk.js": "/tommylay-portfolio/static/js/3.c4cc5839.chunk.js",
+    "static/js/3.c4cc5839.chunk.js.map": "/tommylay-portfolio/static/js/3.c4cc5839.chunk.js.map",
+    "index.html": "/tommylay-portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tommylay-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8c698d03.chunk.js.LICENSE.txt": "/tommylay-portfolio/static/js/2.8c698d03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a711b1.js",
+    "static/js/2.8c698d03.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c04655ee.chunk.js"
+  ]
+}
